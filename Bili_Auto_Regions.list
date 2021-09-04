@@ -1,0 +1,4 @@
+# Bili_Auto_Regions
+# bili自动换区
+# 可选, 由于qx纯tun特性, 不添加规则可能会导致脚本失效.
+ip-cidr, 203.107.1.1/24, reject
