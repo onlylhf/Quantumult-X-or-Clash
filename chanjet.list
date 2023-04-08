@@ -2,3 +2,8 @@
 DOMAIN-SUFFIX,chanjet.com
 DOMAIN-SUFFIX,chanjet.com.cn
 DOMAIN-SUFFIX,yonyou.com
+PROCESS-NAME,Yunshu.app
+PROCESS-NAME,YunshuManager.app
+PROCESS-NAME,YunshuService.app
+PROCESS-NAME,YunshuService
+PROCESS-NAME,Yunshu
