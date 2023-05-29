@@ -4,3 +4,8 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN, cdn.auth0.com
 DOMAIN, openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,stripe.com
