@@ -10,3 +10,7 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,arkoselabs.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,livekit.cloud
